@@ -54,9 +54,10 @@ learning frontend
 building random things
 fixing CSS at 3 AM
 pretending everything is intentional
+```
 
-\<div align="center"\>
+<div align="center">
 
 ### Thanks for stopping by. Please don't judge the commit history.
-\</div\>
-\`\`\`
+
+</div>
