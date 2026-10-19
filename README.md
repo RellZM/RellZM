@@ -10,7 +10,7 @@
 </div>
 
 ---
-
+<div align="center">
 <table>
 <tr>
 <td width="240">
