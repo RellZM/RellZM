@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td width="240">
-  <img src="./avatar.gif" width="220" alt="Rel avatar" />
+  <img src="./Avatar.gif" width="220" alt="Rel avatar" />
 </td>
 <td>
 
