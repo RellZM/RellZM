@@ -10,7 +10,7 @@
 </div>
 
 ---
-<div align="center">
+  <div align="center">
 <table>
 <tr>
 <td width="240">
@@ -29,7 +29,8 @@
 </td>
 </tr>
 </table>
-
+  </div>
+  
 > *Créer, c’est vivre deux fois.*
 
 ---
