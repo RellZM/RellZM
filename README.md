@@ -47,9 +47,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RellZM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://img.shields.io/github/followers/RellZM?style=for-the-badge&logo=github&logoColor=white&color=7aa2f7&labelColor=1a1b26" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RellZM&query=$.public_repos&label=Repos&style=for-the-badge&logo=github&logoColor=white&color=bb9af7&labelColor=1a1b26" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RellZM&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/7aa2f7/RellZM" alt="Contribution graph" width="90%" />
 
 <br/>
 
