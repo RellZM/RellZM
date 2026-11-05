@@ -52,11 +52,11 @@
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/7aa2f7/RellZM" alt="Contribution graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RellZM&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=e9d5ff&area=true&area_color=bb9af7&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub contribution activity graph" width="95%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=RellZM&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/RellZM/RellZM/output/snake-dark.svg" alt="GitHub contribution snake heatmap" width="95%" />
 
 </div>
 
