@@ -52,19 +52,7 @@
 
 <br/><br/>
 
-<table>
-  <tr>
-    <td align="center" colspan="3"><img src="https://img.shields.io/github/repos/RellZM?label=N%20%2F%20public%20repos&style=for-the-badge&color=bb9af7&labelColor=1a1b26" alt="North: public repositories" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/github/followers/RellZM?label=W%20%2F%20people%20who%20found%20me&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="West: followers" /></td>
-    <td align="center"><img src="./compass.svg" width="220" alt="Four direction compass graph" /></td>
-    <td align="center"><img src="https://img.shields.io/github/gist/RellZM?label=E%20%2F%20public%20scratchpad&style=for-the-badge&color=a78bfa&labelColor=1a1b26" alt="East: public gists" /></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3"><img src="https://img.shields.io/github/created-at/RellZM/RellZM?label=S%20%2F%20profile%20since&style=for-the-badge&color=6c8cff&labelColor=1a1b26" alt="South: profile age" /></td>
-  </tr>
-</table>
+<img src="./assets/stats.svg" width="95%" alt="Contribution heatmap and four direction activity chart" />
 
 </div>
 
