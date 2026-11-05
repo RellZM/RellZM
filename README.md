@@ -52,11 +52,19 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RellZM&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=e9d5ff&area=true&area_color=bb9af7&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub contribution activity graph" width="95%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/RellZM/RellZM/output/snake-dark.svg" alt="GitHub contribution snake heatmap" width="95%" />
+<table>
+  <tr>
+    <td align="center" colspan="3"><img src="https://img.shields.io/github/repos/RellZM?label=N%20%2F%20public%20repos&style=for-the-badge&color=bb9af7&labelColor=1a1b26" alt="North: public repositories" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/github/followers/RellZM?label=W%20%2F%20people%20who%20found%20me&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="West: followers" /></td>
+    <td align="center"><img src="./compass.svg" width="220" alt="Four direction compass graph" /></td>
+    <td align="center"><img src="https://img.shields.io/github/gist/RellZM?label=E%20%2F%20public%20scratchpad&style=for-the-badge&color=a78bfa&labelColor=1a1b26" alt="East: public gists" /></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img src="https://img.shields.io/github/created-at/RellZM/RellZM?label=S%20%2F%20profile%20since&style=for-the-badge&color=6c8cff&labelColor=1a1b26" alt="South: profile age" /></td>
+  </tr>
+</table>
 
 </div>
 
