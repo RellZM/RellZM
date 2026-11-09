@@ -4,7 +4,7 @@
 
 ### Student by day, frontend enthusiast by choice, bug creator by accident.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rvykcode.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rvykcode.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rvyk.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rvyk.dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-@afrlzhm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afrlzhm)
 
 </div>
@@ -24,7 +24,7 @@
 - Currently focused on frontend development
 - Mostly working with Next.js and modern frontend tools
 - Turning random ideas into questionable interfaces
-- Check out my latest portfolio: [rvykcode.vercel.app](https://rvykcode.vercel.app/)
+- Check out my latest portfolio: [rvyk.dev](https://rvyk.dev/)
 
 </td>
 </tr>
