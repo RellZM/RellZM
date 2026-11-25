@@ -8,7 +8,8 @@
 
 Building clean, fast, and thoughtful web interfaces with Next.js.
 
-[Portfolio](https://rvyk.dev/) &nbsp;·&nbsp; [Instagram](https://instagram.com/afrlzhm)
+<a href="https://rvyk.dev/"><img src="https://img.shields.io/badge/Portfolio-rvyk.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://instagram.com/afrlzhm"><img src="https://img.shields.io/badge/Instagram-@afrlzhm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
