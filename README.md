@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" alt="Rel — Frontend Developer" width="100%" />
+<img src="./assets/banner.jpg?v=2" alt="Rel — Frontend Developer" width="100%" />
 
 <div align="center">
 
