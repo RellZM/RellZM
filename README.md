@@ -1,74 +1,37 @@
+<img src="./assets/banner.jpg" alt="Rel — Frontend Developer" width="100%" />
+
 <div align="center">
 
-# Hey, I'm Rel
+# Rel
 
-### Student by day, frontend enthusiast by choice, bug creator by accident.
+**Frontend Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rvyk.dev-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rvyk.dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-@afrlzhm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/afrlzhm)
+Building clean, fast, and thoughtful web interfaces with Next.js.
+
+[Portfolio](https://rvyk.dev/) &nbsp;·&nbsp; [Instagram](https://instagram.com/afrlzhm)
 
 </div>
 
----
-  <div align="center">
-<table>
-<tr>
-<td width="240">
-  <img src="./Avatar.gif" width="220" alt="Rel avatar" />
-</td>
-<td>
+<br/>
 
-## About me
+## About
 
-- Student who spends too much time building websites
-- Currently focused on frontend development
-- Mostly working with Next.js and modern frontend tools
-- Turning random ideas into questionable interfaces
-- Check out my latest portfolio: [rvyk.dev](https://rvyk.dev/)
-
-</td>
-</tr>
-</table>
-  </div>
-  
-> *Créer, c’est vivre deux fois.*
-
----
-
-## Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vercel" />
-</p>
-
----
-
-## GitHub stats
+Student focused on frontend development. I turn ideas into polished, usable interfaces and keep refining how I design and build for the web.
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/RellZM?style=for-the-badge&logo=github&logoColor=white&color=7aa2f7&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/RellZM&query=$.public_repos&label=Repos&style=for-the-badge&logo=github&logoColor=white&color=bb9af7&labelColor=1a1b26" />
+## Tech Stack
 
-<br/><br/>
-
-<img src="./assets/stats.svg" width="95%" alt="Contribution heatmap and four direction activity chart" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vercel" alt="Tech stack" />
 
 </div>
 
+<br/>
+
 ---
-
-## Currently
-
-```txt
-learning frontend
-building random things
-fixing CSS at 3 AM
-pretending everything is intentional
-```
 
 <div align="center">
 
-### Thanks for stopping by. Please don't judge the commit history.
+*Créer, c'est vivre deux fois.*
 
 </div>
